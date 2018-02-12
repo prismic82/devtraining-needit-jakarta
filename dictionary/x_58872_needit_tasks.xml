@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="tasks" max_length="40" name="x_58872_needit_tasks" type="collection">
+        <element display="true" label="Column 1" max_length="40" name="column_1" type="string"/>
+        <element label="Column 2" max_length="40" name="column_2" type="string"/>
+        <element label="Column 3" max_length="40" name="column_3" type="string"/>
+        <element label="Column 4" max_length="40" name="column_4" type="string"/>
+    </element>
+</database>
